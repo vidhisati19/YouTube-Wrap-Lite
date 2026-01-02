@@ -1,5 +1,3 @@
-# YouTube-Wrap-Lite
-
 # YouTube Music Taste Audit (Google Takeout Analysis)
 
 ## Overview
