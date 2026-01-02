@@ -80,14 +80,14 @@ All plots are saved automatically.
 
 All outputs are saved in the `output/` folder:
 output/
-├── watch_parsed_raw.csv # Raw parsed watch history
-├── watch_cleaned.csv # Cleaned timestamps + features
-├── music_only.csv # Music-filtered dataset
-├── 01_top_channels.png
-├── 02_by_hour.png
-├── 03_over_time_daily.png
-├── 04_weekday_hour_heatmap.png
-└── mini_report.txt # Summary template
+1. watch_parsed_raw.csv # Raw parsed watch history
+2. watch_cleaned.csv # Cleaned timestamps + features
+3. music_only.csv # Music-filtered dataset
+4. 1_top_channels.png
+5. 2_by_hour.png
+6. 03_over_time_daily.png
+7. 04_weekday_hour_heatmap.png
+8. mini_report.txt # Summary template
 
 ---
 
