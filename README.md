@@ -79,7 +79,6 @@ All plots are saved automatically.
 ## Outputs
 
 All outputs are saved in the `output/` folder:
-output/
 1. watch_parsed_raw.csv # Raw parsed watch history
 2. watch_cleaned.csv # Cleaned timestamps + features
 3. music_only.csv # Music-filtered dataset
@@ -102,12 +101,8 @@ output/
 
 ## How to Run
 
-1. Place `watch-history.html` in:
-   wrap/history/
+1. Place `watch-history.html` in `wrap/history/`
 
-2. Run:
-  ```bash
-  python3 wrap.py
+2. Run: `python3 wrap.py`
 
-3. View results in:
-   wrap/output/
+3. View results in: `wrap/output/`
